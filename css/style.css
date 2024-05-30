@@ -57,6 +57,11 @@ p {
     line-height: 24px;
 }
 
+.container1960 {
+    max-width: 1960px;
+    margin: 0 auto;
+}
+
 .container1440 {
     max-width: 1440px;
     margin: 0 auto;
