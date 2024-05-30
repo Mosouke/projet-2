@@ -76,6 +76,10 @@ p {
     display: none;
 }
 
+img {
+    object-fit: cover;
+}
+
 /* header */
 
 header {
@@ -254,7 +258,7 @@ footer a {
 }
 
 #div_story article h2 {
-    padding: 40px 0 20px;
+    padding: 20px 0 20px;
 }
 
 #div_story article p {
